@@ -1,0 +1,13 @@
+#container {
+    width: 960px;
+    height: 960px;
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+}
+
+.grid {
+    border: 1px solid rgb(126, 126, 126);
+    background-color: rgb(169, 167, 167);
+    box-sizing: border-box;
+}
